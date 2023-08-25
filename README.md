@@ -21,7 +21,6 @@ Random Number Guesser programmieren.
 |5.1| Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
 |6.1| Programm offen|-|Bitte eine Zahl eingeben:|
 |7.1| nach dem man die richtige Zahl erraten hat|- |Sie haben so viele Versuche gebraucht:""|
-|8.1| Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
 
 
 
