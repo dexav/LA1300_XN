@@ -13,6 +13,7 @@ Random Number Guesser programmieren.
 ## Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| ---- | -----  | ------------ | ------------- |
 | 1.1 | Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
 | 2.1 | Programm offen|90(hohe Zahl) |Die Zahl ist zu gross|
 | 3.1 | Programm offen|44(richtige Zahl) |Die Zahl ist richtig|
