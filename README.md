@@ -9,16 +9,20 @@
 Random Number Guesser programmieren.
 
 
-##Testfälle
+
+## Testfälle
+
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-|1.1| Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
-|2.1| Programm offen|90(hohe Zahl) |Die Zahl ist zu gross|
-|3.1| Programm offen|44(richtige Zahl) |Die Zahl ist richtig|
+| 1.1 | Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
+| 2.1 | Programm offen|90(hohe Zahl) |Die Zahl ist zu gross|
+| 3.1 | Programm offen|44(richtige Zahl) |Die Zahl ist richtig|
 |4.1| Programm offen|z |Falsche Eingabe|
 |5.1| Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
 |6.1| Programm offen|-|Bitte eine Zahl eingeben:|
 |7.1| nach dem man die richtige Zahl erraten hat|- |Sie haben so viele Versuche gebraucht:""|
 |8.1| Programm offen|5(niedrige Zahl) |Die Zahl ist zu klein|
+
+
 
 
 
