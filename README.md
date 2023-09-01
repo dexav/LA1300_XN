@@ -51,7 +51,7 @@ Random Number Guesser programmieren.
   
 
 ## Testfälle
-|1.A|01.09.2023|  
+| 1.A | 01.09.2023 |  
 
 Total: 
 
