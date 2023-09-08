@@ -1,0 +1,15 @@
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\bin\Debug\net6.0\LA1300_RandomNumberGuesser.exe
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\bin\Debug\net6.0\LA1300_RandomNumberGuesser.deps.json
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\bin\Debug\net6.0\LA1300_RandomNumberGuesser.runtimeconfig.json
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\bin\Debug\net6.0\LA1300_RandomNumberGuesser.dll
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\bin\Debug\net6.0\LA1300_RandomNumberGuesser.pdb
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.csproj.AssemblyReference.cache
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.AssemblyInfoInputs.cache
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.AssemblyInfo.cs
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.dll
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\refint\LA1300_RandomNumberGuesser.dll
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.pdb
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\LA1300_RandomNumberGuesser.genruntimeconfig.cache
+C:\Users\xnurs\source\repos\LA1300_RandomNumberGuesser\obj\Debug\net6.0\ref\LA1300_RandomNumberGuesser.dll
