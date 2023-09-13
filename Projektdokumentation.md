@@ -21,6 +21,8 @@ Random Number Guesser programmieren.
 |5.1| richtige Zahl erraten|- |SOund wird abgespielt|
 |6.1| Programm offen|-|Bitte eine Zahl eingeben:|
 |7.1| nach dem man die richtige Zahl erraten hat|- |Sie haben so viele Versuche gebraucht:""|
+|8.1| Prgogramm wird gestartet| -|Geben Sie Ihren Namen ein:|
+
 
 
 
@@ -35,16 +37,19 @@ Random Number Guesser programmieren.
 
 | AP-№ | Frist | Beschreibung | geplante Zeit |
 | ---- | -----  | ------------ | ------------- |
-| 1.A  | 25.08.2023        |      Udemy section 1-7        |  min 180min             |
+| 1.A  | 25.08.2023        |      Udemy section 1-7        |   180min             |
 | 1.B  | 25.08.2023          |   Codeacedemy anschauen           |  100 min             |
 |2.A|25.08.2023|Teställe erstellen| 30 min|
-|3.A|25.08.2023| Testfall 1.1 erarbeiten|20min|
-|4.A|25.08.2023| Testfall 2.1 erarbeiten|20min|
-|5.A|25.08.2023| Testfall 3.1 erarbeiten|20min|
-|6.A|01.09.2023| Testfall 4.1 erarbeiten|35min|
-|7.A|01.09.2023| Testfall 5.1 erarbeiten|45min|
-|8.A|25.08.2023| Testfall 6.1 erarbeiten|15min|
-|9.A|01.09.2023| Testfall 7.1 erarbeiten|25 min|
+|3.A|25.08.2023| Wenn man eine zu hohe Zahl rät, wird angezeigt dass die zufällige Zahl kleiner ist.|20min|
+|4.A|25.08.2023| Wenn man eine zu klein Zahl rät, wird angezeigt dass die zufällige Zahl grösser ist.|20min|
+|5.A|25.08.2023| Wenn man die zufällige Zahl errät, dannn zeigt es an dass es richtig war|20min|
+|6.A|01.09.2023| Wenn man eine falsche Eingabe macht, wird das angezeigt.|35min|
+|7.A|01.09.2023| Wenn man die richtige Zahl erraten hat wird ein Soundeffekt abgespielt|45min|
+|8.A|25.08.2023|Wenn man das Programm startet, wird man hingewiesen eine Zahl einzugeben|15min|
+|9.A|01.09.2023| Wenn man die richtige Zahl erraten hat, wird angezeigt wie viele Versuche man gebraucht hat.|20 min|
+|10.A|01.09.2023|Wenn das Programm geöffnet wird, wird man nach dem Namen gefragt.|15 min|
+
+
 
 
 
@@ -56,23 +61,23 @@ Total:
 
 ## 3 Entscheiden
 
-
+Ich habe mich entschieden doch keinen Soundeffekt einzufügen.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- |  ------------- | ----------------- |
-| 1.A  |   25.08.2023      |           |               |                   
-| 1.B  |     25.08.2023    |           |               |                   
-| 2.A|     25.08.2023      |           |               |                   
-|3.A  |     25.08.2023     |           |               |                   
-|4.A  |     25.08.2023     |           |               |                   
-|5.A  |     25.08.2023     |           |               |                   
-|6.A  |     01.09.2023     |           |               |                   
-|7.A  |     01.09.2023     |           |               |                   
-|8.A  |     01.09.2023     |           |               |                   
-|9.A  |     01.09.2023     |           |               |                   
-
+| 1.A  |   25.08.2023      |  180min         |    170min           |                   
+| 1.B  |     25.08.2023    |   100min        |    60min           |                   
+| 2.A|     25.08.2023      |  30min         |         30min      |                   
+|3.A  |     25.08.2023     |       20min    |     25min         |                   
+|4.A  |     25.08.2023     |     20min      |       25min         |                   
+|5.A  |     25.08.2023     |     20  min      |      30 min         |                   
+|6.A  |     01.09.2023     |     35 min      |     45min         |                   
+|7.A  |     01.09.2023     |     45 min      |    -           |                   
+|8.A  |     01.09.2023     |   15 min        |     10 min          |                   
+|9.A  |     01.09.2023     |   20  min        |     30 min          |                   
+|10.A  |     01.09.2023     | 15 min          |        20 min       |   
 
 
 
