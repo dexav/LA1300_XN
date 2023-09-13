@@ -79,8 +79,17 @@ Ich habe mich entschieden doch keinen Soundeffekt einzufügen.
 |9.A  |     01.09.2023     |   20  min        |     30 min          |                   
 |10.A  |     01.09.2023     | 15 min          |        20 min       |   
 
+### 4.1 Plagiat / Quellen
 
+ Bei der Methode  ``` public bool MakeGuess() ``` habe ich bei ChatGPT nachgefragt warum es nicht ging(Vorher war die Methode kein bool). Er hat mir den gleichen Code generiert, den ich geschrieben habe, aber er hat es zu einem bool gemacht, damit man aus dieser Methode rauskommt.
 
+ Bei diesen 3 Linien Code:
+```C#
+  Console.Write("Bitte rate eine Zahl zwischen 0 und 100: ");
+    string input1 = Console.ReadLine();
+    int input = Convert.ToInt32(input1);
+```
+ habe ich auch von ChatGPT generieren lassen, da ich Probleme hatte wie man Console.ReadLine zu einem int konventieren konnte.                
 
 ## 5 Kontrollieren
 
@@ -93,4 +102,4 @@ Ich habe mich entschieden doch keinen Soundeffekt einzufügen.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Portfolio: https://portfolio.bbbaden.ch/view/view.php?id=31572
