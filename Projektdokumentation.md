@@ -6,7 +6,7 @@
 
 ### 1.1 Ihr Projekt
 
-Random Number Guesser programmieren.
+Random-Number-Guesser programmieren.
 
 ### 1.2 User Stories
 
