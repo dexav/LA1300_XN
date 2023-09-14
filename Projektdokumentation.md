@@ -120,7 +120,9 @@ Ich habe mich entschieden doch keinen Soundeffekt einzufügen.
 | 7.1 |08.09.2023 |OK|Xavier Nursiwat|
 | 8.1 |08.09.2023 |OK|Xavier Nursiwat|
 
+Fazit:
 
+Mein Programm funktioniert ohne Probleme, aber man wird keinen Sound bekommen wenn man gewonnen hat. 
 
 
 ## 6 Auswerten
