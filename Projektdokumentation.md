@@ -8,9 +8,23 @@
 
 Random Number Guesser programmieren.
 
+### 1.2 User Stories
+
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |    muss             |   Funktional  | Als ein User möchte ich zufällige Zahlen erraten können, damit ich spass habe. |
+| 2  |        muss         |  Funktional    | Als User möche ich, dass es einen Highscore gibt, damit ich nach jedem Spiel mich verbessern kann.                                   |
+| 3 |      kann           |   Funktional   |   Als User möchte ich, dass der Highscore nach jedem Spiel angezeigt wird, damit ich keine Mühe habe es selber nachzuschauen.                               |
+| 4 |      muss           | Funktional     |  Als User möchte ich, dass ich einen Hinweis dass meine Zahl zu hoch ist, damit ich es einfacher habe.                                 |
+| 5  |       muss          |Funktional      |   Als User möchte ich, dass ich einen Hinweis dass meine Zahl zu klein ist, damit ich es einfacher habe.                                    |
+| 6  |    muss             | Funktional     |  Als User möchte ich, wenn ich die Zahl richtig geraten habe, dass mir es mittgeteilt wird, damit ich wissen kann dass ich gewonnen habe.                         |
+| 7  |    kann          | Rand | Als User möchte ich, dass am Anfang einen Namen eingeben muss, damit ich weiss wer das Spiel gespielt hat.                 |
 
 
-## Testfälle
+
+
+
+### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | -----  | ------------ | ------------- |
@@ -23,7 +37,9 @@ Random Number Guesser programmieren.
 |7.1| nach dem man die richtige Zahl erraten hat|- |Sie haben so viele Versuche gebraucht:""|
 |8.1| Prgogramm wird gestartet| -|Geben Sie Ihren Namen ein:|
 
+### 1.4 Diagramm
 
+![Hauptprogramm 1](https://github.com/dexav/LA1300_XN/assets/110892637/94de0fe9-3363-4483-8798-ffd6e8d53874)
 
 
 
@@ -95,8 +111,15 @@ Ich habe mich entschieden doch keinen Soundeffekt einzufügen.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1 |08.09.2023 |OK |Xavier Nursiwat|
+| 2.1 |08.09.2023 |OK|Xavier Nursiwat|
+| 3.1 | 08.09.2023|OK|Xavier Nursiwat|
+| 4.1 |08.09.2023 |OK|Xavier Nursiwat|
+| 5.1 |08.09.2023 |NOk|Xavier Nursiwat|
+| 6.1 |08.09.2023 |OK|Xavier Nursiwat|
+| 7.1 |08.09.2023 |OK|Xavier Nursiwat|
+| 8.1 |08.09.2023 |OK|Xavier Nursiwat|
+
 
 
 
